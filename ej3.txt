@@ -1,0 +1,4 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: Proyecto: LQejercicio3, configuración: Debug Any CPU ------
+1>  LQejercicio3 -> C:\Users\Usuario\Desktop\Ahora si\LQejercicio3\LQejercicio3\bin\Debug\LQejercicio3.exe
+========== Compilación: 1 correctos, 0 dieron error, 0 actualizados, 0 omitidos ==========
